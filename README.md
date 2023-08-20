@@ -11,9 +11,7 @@ TuneWave is a fun and educational project aimed at helping users learn coding sk
 - [Stations](#stations)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
