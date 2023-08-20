@@ -1,6 +1,6 @@
 # TuneWave - Online Music Streaming Project
 
-![TuneWave Logo](https://link.to.your.logo)
+![TuneWave Logo](https://github.com/habitual69/youradio/blob/main/assets/tunewave.png)
 
 TuneWave is a fun and educational project aimed at helping users learn coding skills by creating an online music streaming platform. The project utilizes HTML, Tailwind CSS, and JavaScript to enable users to stream music online using the you.radio stream and a custom API. This project is created purely for learning purposes and is licensed under the MIT License.
 
