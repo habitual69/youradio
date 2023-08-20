@@ -84,9 +84,5 @@ While TuneWave is primarily a personal educational project, you're welcome to su
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
-
-For any questions or inquiries, please feel free to contact me via email at habitual@example.com or by using the GitHub repository's issue tracker.
-
 ---
 *Please note that this project is intended solely for educational and learning purposes, and it's not meant for commercial or production use.*
